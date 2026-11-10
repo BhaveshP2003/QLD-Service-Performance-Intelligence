@@ -1,0 +1,3 @@
+Model,MAE,MAPE (%),WAPE (%),Bias
+Seasonal Naive,4.83,3.08,3.09,4.83
+Historical Monthly Average,5.24,3.29,3.36,-3.93
